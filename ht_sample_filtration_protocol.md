@@ -21,8 +21,7 @@ Samples for this protocol are assumed to be one of two types:
 
 ### 96-well plates and covers
 
-* Polypropylene 96-well deep-well plates, 1 mL ([Agilent 
-#5042-6454](http://www.agilent.com/store/en_US/Prod-5042-6454/5042-6454))
+* Polypropylene 96-well deep-well plates, 1 mL ([Agilent #5042-6454](http://www.agilent.com/store/en_US/Prod-5042-6454/5042-6454))
 
 * Silicone closing mats for 96-well plates ([Agilent #5042-1389](http://www.agilent.com/store/en_US/Prod-5042-1389/5042-1389))
 
