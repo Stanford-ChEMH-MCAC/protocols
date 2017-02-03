@@ -3,6 +3,10 @@
 This protocol describes how to filter samples in a high-throughput manner.  Filtration is a necessary sample processing step prior to LC, HPLC, or UPLC analyses, to prevent clogging of autoinjector lines and UPLC columns.  This protocol is geared towards users of [ChEM-H's 6545 Q-TOF mass spectrometer](https://asconfluence.stanford.edu/confluence/display/ICB/ChEM-H+Metabolic+Chemistry+Analysis+Center), and is geared for processing large numbers (> 20) of samples at once.  
 
 # Equipment
+
+### PPE
+Safety glasses and nitrile gloves are required for this protocol.
+
 ### Samples
 
 Samples for this protocol are assumed to be one of two types:

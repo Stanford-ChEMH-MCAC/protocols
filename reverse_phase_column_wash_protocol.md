@@ -3,6 +3,9 @@
 This protocol describes how to wash a contaminated or plugged reverse-phase HPLC column with aggressive, hydrophobic solvents in attempt to clean it and lower pressure drops.  It is specific for  [ChEM-H's 6545 Q-TOF mass spectrometer](https://asconfluence.stanford.edu/confluence/display/ICB/ChEM-H+Metabolite+Chemistry+Analysis+Center).
 
 # Equipment
+#### PPE
+Safety glasses and nitrile gloves are required for this protocol.
+
 #### Chromatography column
 
 This protocol assumes the column to be washed is a [50 mm &times; 2.1 mm Zorbax RRHD Eclipse C18 column with 1.8 &mu;m beads (Agilent #959757-902)](http://www.agilent.com/store/en_US/Prod-959757-902/959757-902).  
