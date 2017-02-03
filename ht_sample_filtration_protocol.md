@@ -35,22 +35,26 @@ Samples for this protocol are assumed to be one of two types:
 
 HPLC-grade methanol
 
-# Protocol (clarified aqueous samples)
-1. If required, allow your clarified aqueous samples to thaw.
-2. Wash your filter plates with methanol to remove contaminants from the filter.
-	1. Dispense ~100 mL of methanol into a glass container with an opening wide enough for your multichannel pipette to reach inside.
-	2. Add 200 &mu;L of methanol to each well of a filter plate
+# Protocol
+1. Prepare your samples
+	* If your samples are *clarified aqueous samples*, allow them to thaw at room temperature.
+	* If your samples are *previously dried solvent extracts*:
+		1. Dispense ~100 mL of methanol into a glass container with an opening wide enough for your multichannel pipette to reach inside.
+		2. Resuspend the residue by adding 200 &mu;L (or other appropriate volume) of 100% methanol to your samples.  Incubate the reconstituted samples at room temperature for approx. 30 min.
+2. Wash your filter plates to remove contaminants
+	1. If you have not already done so, dispense ~100 mL of methanol into a glass container with an opening wide enough for your multichannel pipette to reach inside.
+	2. Add 200 &mu;L of methanol to each well of a filter plate.
 	3. Put your filter plate above a 96-well plate (this catch plate is just to prevent methanol from being eluted onto the centrifuge rotor and can be of any type).
 	4. Spin the filter plate at 2 min for 2500 rpm to force methanol through the filter, removing the contaminants on the filter.
 3. Label your plates
 	1. For each filter plate that you will use, label an Agilent deep-well 96-well polypropylene plate with your name, date, and other identifying information (e.g. plate #, experiment #, etc.).  These plates are the "catch" plates that hold your samples after filtration; they will be the "permanent" home of your samples during and after instrumental analysis.
 	2. Using a Sharpie pen, label the top of each filter plate so that you can match filter plates to the appropriate catch plate.
-4. Add samples to the washed filter plate.	
+4. Add samples to the washed filter plate
 	1. Position each filter plate over the corresponding catch plate.  Ensure the orientation of the filter plate is the same as the catch plate.
 	2. Using a multichannel pipettor, mix your samples by aspiration.  (I.e., pipette up and down several times.)  This ensures that any particles that may have formed during freezing or thawing are evenly distrubted in your samples
 	3. Transfer 200 &mu;L of your samples to the filter plate.
 	4. Cover the filter plate with a lid.
-5. Centrifuge the filter plate and catch plate stack to filter your samples.
+5. Centrifuge the filter plate and catch plate stack to filter your samples
 	1. Put your plate stack into a swinging bucket centrifuge.
 		* Ensure your plates are balanced.  Do not pile more than one filter plate/catch plate stack on top of each other.
 	2. Spin at 2500 rpm for 2 minutes.
