@@ -47,8 +47,8 @@ Each bottle should contain more than 300 mLs of buffer.
 	4. After purging, change the solvent flow to the pump to 100% buffer `B1`, i.e. 100% acetonitrile with 0.1% v/v formic acid.
 	5. Let 40 column volumes of acetonitrile flow over the column.
 	6. Ensure that system pressure and UV absorbance stabilize at this condition.  Acetone absorbs strongly at 254 nm and thus as acetone is removed from the column UV absorbance will drop over time.  Make sure this drop is complete and UV baselines have stabilized.
-10. Open the column oven.  Disconnect the column and connect it in the **correct* flow direction.
-11. Set the flow to the column to correspond to your initial method conditions (e.g. 95% buffer `A1`, 5% buffer `B1`) and let 40 column volumes of this mixture flow over the column.
+10. Open the column oven.  Disconnect the column and connect it in the **correct** flow direction.
+11. Set the flow to the column to correspond to your initial method conditions (e.g. 95% buffer `A1`, 5% buffer `B1`) and let 40 column volumes of this mixture flow over the column.  Ensure the UV absorbance returns to baseline.
 12. If you are using the column immediately, you are ready to begin your run.
 13. If you are storing the column for later use, store it in 100% acetonitrile.
 	1. Change the buffer to 100% buffer `B1`. 
