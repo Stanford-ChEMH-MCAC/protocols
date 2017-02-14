@@ -21,7 +21,7 @@ Samples for this protocol are assumed to be one of two types:
 	* If these _hydrophilic_ filter plates are unavailable **and** your samples are in organic solvents (e.g. 100% methanol), _then_ Hydrophobic PTFE filter plates (e.g. [Merck Millipore # MSRPN0410](https://www.emdmillipore.com/CA/en/product/MultiScreen-Solvinert-Filter-Plate,-hydrophobic,-PTFE,-0.45%C2%A0%C2%B5m,-clear,-non-sterile,MM_NF-MSRPN0450) are acceptable substitutes.
 	* We have found that non-PTFE plates, even those marketed as solvent-compatible and for use in HPLC sample prep, introduce far more contaminants into the samples.
 	* Even the PTFE filter plates contain contaminants; to remove them, they must be pre-rinsed with methanol.
-	
+	* The filter plates are compatible with centrifugal forces of 3000 &times; _g_ or lower.
 
 ### 96-well plates and covers
 
