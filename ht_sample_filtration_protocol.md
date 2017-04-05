@@ -49,7 +49,7 @@ HPLC-grade methanol
 	1. If you have not already done so, dispense ~100 mL of methanol into a glass container with an opening wide enough for your multichannel pipette to reach inside.
 	2. Add 200 &mu;L of methanol to each well of a filter plate.
 	3. Put your filter plate above a 96-well plate (this catch plate is just to prevent methanol from being eluted onto the centrifuge rotor and can be of any type).
-	4. Spin the filter plate at 2 min for 2500 rpm to force methanol through the filter, removing the contaminants on the filter.
+	4. Spin the filter plate at 2 min at > 1000 &times; _g_ to force methanol through the filter, removing the contaminants on the filter.
 3. Label your plates
 	1. For each filter plate that you will use, label an Agilent deep-well 96-well polypropylene plate with your name, date, and other identifying information (e.g. plate #, experiment #, etc.).  These plates are the "catch" plates that hold your samples after filtration; they will be the "permanent" home of your samples during and after instrumental analysis.
 	2. Using a Sharpie pen, label the top of each filter plate so that you can match filter plates to the appropriate catch plate.
@@ -61,7 +61,7 @@ HPLC-grade methanol
 5. Centrifuge the filter plate and catch plate stack to filter your samples
 	1. Put your plate stack into a swinging bucket centrifuge.
 		* Ensure your plates are balanced.  Do not pile more than one filter plate/catch plate stack on top of each other.
-	2. Spin at 2500 rpm for 2 minutes.
+	2. Spin at up to 3000 &times; _g_ for 2 minutes.
 		* Verify that all the sample volume has been pulled through the filter and is in the catch plate.  If sample remains above the filter, centrifuge again.
 6.  Cover the catch plate with a silicone sealing mat.  Discard filter plates.
 
