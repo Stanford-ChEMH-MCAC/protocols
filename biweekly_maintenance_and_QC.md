@@ -17,7 +17,7 @@ Safety glasses and nitrile gloves are required for this protocol.
 
 # Protocol
 1. Ensure you have reserved time on the [GNPN ChEM-H LC-MS Schedule](https://calendar.google.com/), a Google Calendar used to reserve time on the instrument.
-  * TODO: Link to the specific calendar URL after Lalla creates it.
+	* TODO: Link to the specific calendar URL after Lalla creates it.
 2. Top off all chromatography buffers.  If needed, make more buffers.
 3. Top off all needle wash and pump seal wash "buffers".  If needed, make more working stock of these buffers.
 4. Wash an appropriate reversed phase C18 column using our [column-wash protocol](reverse_phase_column_wash_protocol.md).
