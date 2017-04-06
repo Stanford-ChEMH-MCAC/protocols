@@ -40,8 +40,8 @@ Safety glasses and nitrile gloves are required for this protocol.
 	3. Wet a lint-free cloth or kimwipe with a 50% v/v mixture of methanol and water, and wipe the "left" side of the ion source (i.e. the side that hinges out from the instrument) thoroughly to remove all residue.  If available, use a teflon spray bottle for this step.
 	4. Wet a lint-free cloth or kimwipe with a 50% v/v mixture of methanol and water, and wipe the "right" side of the ion source (i.e. the side that is built into the main MS box) thoroughly to remove any residue.  _Never_ use a spray bottle to clean this side of the ion source.  Bulk liquids should never be allowed to enter the MS capillary.
 8. As required (frequency TBD) check alignment of the nebulizer probe with the required tools from Agilent. 
-  * More info on this step forthcoming.
-  * TODO: update protocol with more details here.
+	* More info on this step forthcoming.
+	* TODO: update protocol with more details here.
 9. Replace all spray shields, nebulizers, etc.  Hook up the MS and turn the system on.
 10. Run a peptide QC standard and a small molecule QC standard, saving the data in the `D:\MassHunter\data\qc\` folder, using the filename of either `rp_std_<DATE>.d` or `msrt1_std_<DATE>.d` as the filenames.
 11. Verify that peak areas and mass spectra for standards meet expectations.
