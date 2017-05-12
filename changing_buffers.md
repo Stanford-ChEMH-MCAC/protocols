@@ -32,3 +32,6 @@ Safety glasses and nitrile gloves are required for this protocol.
 	* You can accomplish this step by purging both lines simultaneously at a flow rate of 5 mL/min and a solvent blend of 50% A, 50% B.
 	* This step purges the bulk of the old buffer from the lines.
 12. Find dry lids to put on the old bottles of buffer A and B that you have removed from the system, and store the old buffers in an appropriate place.
+13. **Important**.  Right click on the pump module, select "Bottle Fillings...", and update the pump's solvent volume tracker with volumes and bottle sizes for your new buffers.
+
+CF/cf
