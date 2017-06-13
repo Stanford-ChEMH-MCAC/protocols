@@ -3,6 +3,7 @@
 This protocol describes how to safely power cycle the 6545 qTOF mass spectrometer.  It is useful for when communications between the MS and its controlling PC break down, or when the mass spectrometer is generating cryptic, non-sensical error messages.
 
 # Equipment
+Agilent 6545 qTOF mass spectrometer and associated MassHunter WorkStation PC.
 
 # Protocol
 1. Ensure you have reserved time on the appropriate ChEM-H LC-MS schedule:
