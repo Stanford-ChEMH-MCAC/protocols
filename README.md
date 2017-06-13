@@ -6,7 +6,7 @@ This repository contains laboratory protocols for operating mass spectrometers i
 
 This protocol repository is loosely organized into sub-directories.  Sub-directories are currently:
 
-1. [`periodic_maintenance`](periodic_maintenance).  These protocols relate to periodic maintenance, instrument reconfiguration, column cleaning, the composition of the tuning mix etc.
+1. [`instrument_maintenace_and_configuration`](instrument_maintenace_and_configuration).  These protocols relate to periodic maintenance, instrument reconfiguration, column cleaning, the composition of the tuning mix etc.
 
 2. [`sample_preparation`](sample_preparation).  These protocols relate to readying samples for LC-MS analysis.
 
