@@ -9,7 +9,9 @@ Safety glasses and nitrile gloves are required for this protocol.
 #### Buffers
 * Buffer "C" and "D" of your choosing should be available.  **You will be installing these buffers on lines *C* (or *A2*) and *D* (or *B2*) of the instrument**, as lines A(1) and B(1) on both of our instruments are dedicated to water and acetonitrile respectively, both with 0.1% v/v formic acid.  
 
-* On the 6545 qTOF, there is no line "C" or "D"; instead, these lines are called "A2" and "B2".  Lines A1 and B1 are dedicated to water and acetonitrile.
+	* On the 6545 qTOF, there is no line "C" or "D"; instead, these lines are called "A2" and "B2".  Lines A1 and B1 are dedicated to water and acetonitrile.
+
+	* On the 6470 QQQ, there are lines called "C" and "D".
 
 Only use buffers made from HPLC-grade solvents, and make sure the solvent strength and pH of your buffer is compatible with your column.
 
