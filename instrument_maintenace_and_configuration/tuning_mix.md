@@ -50,5 +50,4 @@ The same bottle can be used regardless of ion source.
 |-----------------------------------|-------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 5 mM purine<br /> in 90:10 MeCN:water                | G1969-85001 | 0.4          |                                                                                                                                                     |
 | 2.5 mM HP-0921<br /> in 90:10 MeCN:water                      | -           | 1        |     This solution contains the +922.0109 m/z standard; <br />it contains hexakis(1H,1H,3H-perfluoropropoxy)phosphazene.                                                                                                |
-| water                             | -           | 3.75         | it is unknown if using<br />water w/ 0.1% formic acid<br />is OK                                                                                                          |
 
