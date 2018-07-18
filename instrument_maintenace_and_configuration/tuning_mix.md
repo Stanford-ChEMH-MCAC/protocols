@@ -15,10 +15,10 @@ The proper tuning mix depends on the ion source.
 
 | Component                         | ID          | Volume | notes                                                                                                                                               |
 |-----------------------------------|-------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| ESI-L tuning mix                  | G1969-85000 | 10 mL        |                                                                                                                                                     |
-| acetonitrile                      | -           | 88.5 mL       | it is OK to use<br />MeCN w/ 0.1% formic acid                                                                                                            |
-| water                             | -           | 1.5 mL        | it is OK to use<br />water w/ 0.1% formic acid                                                                                                           |
-| 0.1 mM HP-0321<br />solution from vial | G1969-85003 | 5 &mu;L       | This solution contains the +322.0492 m/z standard; <br />it contains hexamethoxyphosphazene. <br /> I don't know why this additional component is required. |
+| ESI-L tuning mix                  | G1969-85000 | 5 mL        | **DO NOT USE MMI-L tuning mix**                                                                                                                                                    |
+| acetonitrile                      | -           | 44.25 mL       | it is OK to use<br />MeCN w/ 0.1% formic acid                                                                                                            |
+| water                             | -           | 0.75 mL        | it is OK to use<br />water w/ 0.1% formic acid                                                                                                           |
+| 0.1 mM HP-0321<br />solution from vial | G1969-85003 | 2 &mu;L       | This solution contains the +322.0492 m/z standard; <br />it contains hexamethoxyphosphazene. <br /> I don't know why this additional component is required. |
 
 * Add the components in the order listed.
 * The component at an _m_/_z_ of 118.0874 is glycine betaine / trimethylglycine.  This signal degrades more quickly than the others.  It's intensity is strongly affected by the volume fraction of water in the mix.  You can add more water up to 5% v/v, in an effort to rescue this signal.  You could also add a few &mu;L of glycine betaine solution in HPLC-grade water to the calibrant solution to rescue it.
@@ -30,7 +30,7 @@ The proper tuning mix depends on the ion source.
 
 | Component                         | ID          | Volume (mL) | notes                                                                                                                                               |
 |-----------------------------------|-------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| MMI-L tuning mix                  | G1969-85020 | 25          |                                                                                                                                                     |
+| MMI-L tuning mix                  | G1969-85020 | 25          |      **DO NOT USE ESI-L tuning mix**                                                                                                                                               |
 | acetonitrile                      | -           | 71.25        | it is unknown if using<br />MeCN w/ 0.1% formic acid<br />is OK                                                                                                     |
 | water                             | -           | 3.75         | it is unknown if using<br />water w/ 0.1% formic acid<br />is OK                                                                                                          |
 
