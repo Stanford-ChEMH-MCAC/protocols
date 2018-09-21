@@ -74,7 +74,7 @@ We also recommend that you randomize injection order for your samples.
 12. Click the "Start Worklist Run" button.
 13. Watch the first sample inject to be sure no errors occur.
 14. Observe the TIC plot data in the Acquisition window to make sure the peaks in the first injection (of the external standard) look correct.
-15. You are free to leave and let the instrument do its work.  It's a good idea to check in on your run periodically using TeamViewer.
+15. You are free to leave and let the instrument do its work.  It's a good idea to check in on your run periodically using AnyDesk.
 16. If you want your samples back, retrieve them from the autosampler before your reserved time on the calendar ends.
 
 CF / cf
