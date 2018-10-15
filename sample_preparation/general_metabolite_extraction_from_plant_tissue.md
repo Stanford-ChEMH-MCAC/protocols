@@ -51,29 +51,34 @@ This protocol assumes plant tissue samples are stored as harvested (i.e. wet wei
 			* Ideal practice is to lyophilize as soon as possible, as storing lyophilized samples is preferable to storing wet tissue.
 2. Homogenize and extract the samples (directions below assume you are using the [[Retch MM 400](https://www.retsch.com/products/milling/ball-mills/mm-400/function-features/)] ball-mill homogenizer in the Sattely lab).
 	1. Remove samples from frozen storage and work on dry ice.
-	2. Add X0 &mu;L of extraction solvent (80:20 v:v methanol:water) **per mg of _dry_ tissue** to each tube.
-		* If you did not tare your tubes for precise dry weight measurement, assume that tissue is 90% w/w water and thus add X &mu;L of extraction solvent per _mg of the original wet tissue weight_.  
-		* The value of X depends on the plant and tissue you are using.  
-		* For tomato leaf, X = 6; i.e., add 60 &mu;L of solvent per mg of dry tissue.
-		* For _Arabidopsis_ leaf, X = 8; i.e., add 80 &mu;L of solvent per mg of dry tissue.
-		* For tobacco leaf, X = 2; i.e., add 20 &mu;L of solvent per mg of dry tissue.
-	3. Add one (1) steel ball, 5 mm diameter, to each Eppendorf tube.
-	4. Place the Eppendorf tubes in the white Teflon homogenizer rack.
+	2. Add one (1) steel ball, 5 mm diameter, to each Eppendorf tube.
+	3. Place the Eppendorf tubes in the white Teflon homogenizer rack.
 		* Each rack holds 10 samples; there are two racks.  For more samples you will have to work in batches.
-	5. Tighten the homogenizer holder clamps to lock the racks in place.  
+	4. Tighten the homogenizer holder clamps to lock the racks in place.  
 		* Do not overtighten the clamps.  (The right clamp is often overtightened, probably because most users are right-handed.)
-	6. Homogenize at room temperature for 2 minutes and 25 Hz.
+	5. Homogenize at room temperature for 2 minutes and 25 Hz.
 		* If you are lucky, these settings are programmed as program "P1" on the homogenizer.
-	7. Remove the samples from the homogenizer.
+	6. Remove the samples from the homogenizer.
 		* You do not need to remove the steel ball from each sample now.  Wait until later.
-	8. Centrifuge at ~12,000 rpm on a benchtop centrifuge for 2 minutes at 4 &deg;C.
-	9. Decant the supernatant into the bottom part of a Whatmann filter vial.  
+	7. Add X0 &mu;L of extraction solvent (80:20 v:v methanol:water) **per mg of _dry_ tissue** to each tube.
+		* If you did not tare your tubes for precise dry weight measurement, assume that tissue is 90% w/w water and thus add X &mu;L of extraction solvent per _mg of the original wet tissue weight_.  
+		* The value of X depends on the plant and tissue you are using.  Some rough guidelines:  
+			* For tomato leaf, X = 6; i.e., add 60 &mu;L of solvent per mg of dry tissue.
+			* For _Arabidopsis_ leaf, X = 8; i.e., add 80 &mu;L of solvent per mg of dry tissue.
+			* For tobacco leaf, X = 2; i.e., add 20 &mu;L of solvent per mg of dry tissue.
+	8. Vortex strongly for ~10 seconds.
+	9. Optional: Heat at 65 &deg; C for 10 minutes.
+		* The utility of this step needs to be assessed for your metabolites and sample types.  It is a tradeoff between metabolite stability and extraction yield.
+		* If you do heat, vortex briefly after heating.
+	10. Centrifuge at ~12,000 rpm on a benchtop centrifuge for 2 minutes at 4 &deg;C.
+		* TODO: work out the maximum _g_ force that Safe Lock tubes with steel balls in them can handle before the balls damage the tubes.
+	11. Decant the supernatant into the bottom part of a Whatmann filter vial.  
 		* Make sure not to accidentally decant the steel ball at this stage.
-	10. Filter the samples using the Whatmann vial filter top by manually plunging the top completely down 
+	12. Filter the samples using the Whatmann vial filter top by manually plunging the top completely down 
 		* Some force will be required.
-	11. Analyze samples immediately or store at freezer temperatures until analysis.
+	13. Analyze samples immediately or store at freezer temperatures until analysis.
 		* Stability of samples stored in the freezer will depend on metabolites of interest.  (80% methanol does not freeze, even at - 80 &deg;C temperatures.)  It is best to analyze samples as soon as possible after extraction.
-	12. Remove the steel balls from all sample tubes and clean them before returning them to the container of steel balls labeled "clean".
+	14. Remove the steel balls from all sample tubes and clean them before returning them to the container of steel balls labeled "clean".
 		* TODO: write protocol for cleaning steel balls.
 	
 #### Notes
