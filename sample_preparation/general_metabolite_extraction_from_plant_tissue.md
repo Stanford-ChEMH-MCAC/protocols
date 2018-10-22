@@ -86,6 +86,6 @@ This protocol assumes plant tissue samples are stored as harvested (i.e. wet wei
 	
 #### Notes
 
-Based on [Jeon et al. 2018](https://www.biorxiv.org/content/biorxiv/suppl/2018/09/04/408518.DC1/408518-1.pdf)'s writeup of longstanding Sattely lab practice.  Thanks to Ryan N. and Niraj M. for feedback.
+Based on [Jeon et al. 2018](https://www.biorxiv.org/content/biorxiv/suppl/2018/09/04/408518.DC1/408518-1.pdf)'s writeup of longstanding Sattely lab practice.  Thanks to Ryan N., Ricardo d.l.P., & Niraj M. for feedback.
 
 CF / cf
