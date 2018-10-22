@@ -13,11 +13,12 @@ This protocol assumes plant tissue samples are stored as harvested (i.e. wet wei
 ### Equipment
 
 
+0. Eppendorf [Safe-Lock tubes](https://online-shop.eppendorf.com/OC-en/Laboratory-Consumables-44512/Tubes-44515/Eppendorf-Safe-Lock-Tubes-PF-8863.html), 1.5 mL or 2 mL in capacity, colorless
 1. -80 &deg; C Freezer
 2. Lyophilizer (e.g. [LABCONCO Freezone 6plus](https://www.labconco.com/product/freezone-plus-6-liter-console-freeze-dry-system/281) )
 3. Ball-mill homogenizer (e.g. [Retch MM 400](https://www.retsch.com/products/milling/ball-mills/mm-400/function-features/))
 4. Syringeless filter vials (e.g. Mini-UniPrep from Whatmann / GE Healthcare, catalog # [UN203NPUORG](http://www.capitolscientific.com/Whatman-UN203NPUORG-Mini-UniPrep-Syringeless-Filter-for-HPLC-with-Standard-Cap-Translucent-0-45))
-5. Cut-off lids from Eppendorf tubes, manually perforated (used to protect samples during lyophilization)
+5. Cut-off lids from Safe-Lock tubes, manually perforated (used to protect samples during lyophilization)
 
 ### Reagents
 
@@ -29,17 +30,19 @@ This protocol assumes plant tissue samples are stored as harvested (i.e. wet wei
 1. Lyophilize the samples.
 	1. Remove Eppendorf tubes containing frozen wet plant tissue samples from the -80 &deg;C and place on dry ice.
 	2. Uncap the tubes.
-	3. Cap the tubes with a separately prepare, perforated Eppendorf tube lid.
-	4. Place the samples in a lyophilization jar / chamber.
+	3. Cap the tubes with a separately prepared, perforated Eppendorf tube lid.
+		* This protects your samples during lyophilization; in the event of an accidental sudden (de)pressurization, chunks of your sample made get propelled out of the tube if the top was open completely.  Protecting them with a separate lid (perforated so lyophilization can work) guards against this.
+	4. Place the samples in a lyophilization jar / chamber that you have pre-chilled on dry ice.
 	5. Carrying the samples on dry ice, proceed to the lyophilizer.
 	6. Follow the directions on the lyophilizer (directions below assume you are using the [LABCONCO Freezone 6plus](https://www.labconco.com/product/freezone-plus-6-liter-console-freeze-dry-system/281) in Shriram Center.
 		1. BEFORE ADDING YOUR SAMPLES, CLOSE OFF AND ISOLATE ANY CURRENTLY LYOPHILIZING SAMPLES.
-			* This step prevents sudden depressurization of your labmates' samples and thus also prevents their sever ire.
+			* This step prevents sudden depressurization of your labmates' samples and thus also prevents their severe ire.
 			* To isolate a chamber, rotate the recessed part of the gray valve handle for the chamber so that it faces 90&deg; to the left or to the right of the black "spout" for the chamber.
 		2. Add your chamber to the lyophilizer.
-		3. Rotate the gray valve for your own lyophilizer chamber approx. 180 &deg;C so that the recessed part of the gray handle faces down (relative to the black "spout"), thus opening up your samples to the lyophilizer pump.
-		4. Wait for the lyophylizer to partially cool and evacuate your sample chamber.
-			* Let temperature and pressure indicator bars reach "five dots".
+			* If you are worried about photolability in the metabolites you care about, cover your lyophilization jar thoroughly with aluminum foil.
+		3. Rotate the gray valve for your own lyophilizer chamber approx. 180&deg; so that the recessed part of the gray handle faces down (relative to the black "spout"), thus opening up your samples to the lyophilizer pump.
+		4. Wait for the lyophylizer to partially evacuate your sample chamber:
+			* Let temperature and pressure indicator bars reach "_five dots_".
 		5. RETURN THE VALVES FOR YOUR LABMATES' CHAMBERS TO THE "DOWN" POSITION SO THEIR SAMPLES KEEP LYOPHILIZING!
 			* Failure to do this step results in ire, as described above.
 		6. Allow your samples to lyophilize until dry.
@@ -70,14 +73,14 @@ This protocol assumes plant tissue samples are stored as harvested (i.e. wet wei
 	9. Optional: Heat at 65 &deg; C for 10 minutes.
 		* The utility of this step needs to be assessed for your metabolites and sample types.  It is a tradeoff between metabolite stability and extraction yield.
 		* If you do heat, vortex briefly after heating.
-	10. Centrifuge at ~12,000 rpm on a benchtop centrifuge for 2 minutes at 4 &deg;C.
-		* TODO: work out the maximum _g_ force that Safe Lock tubes with steel balls in them can handle before the balls damage the tubes.
+	10. Centrifuge at up to 21,000 _g_ on a benchtop centrifuge for 5 minutes at 4 &deg;C.
+		* Even at 21,000 _g_ or higher (essentially the highest setting of most benchtop microcentrifuges), the steel ball will not damage SafeLock tubes
 	11. Decant the supernatant into the bottom part of a Whatmann filter vial.  
 		* Make sure not to accidentally decant the steel ball at this stage.
 	12. Filter the samples using the Whatmann vial filter top by manually plunging the top completely down 
 		* Some force will be required.
 	13. Analyze samples immediately or store at freezer temperatures until analysis.
-		* Stability of samples stored in the freezer will depend on metabolites of interest.  (80% methanol does not freeze, even at - 80 &deg;C temperatures.)  It is best to analyze samples as soon as possible after extraction.
+		* Stability of samples stored in the freezer will depend on metabolites of interest.  (80% methanol does not freeze, even at - 80 &deg;C temperatures.)  It is best to analyze samples as soon as possible after extraction.  Storing lyophilized unextracted samples is preferable to storing extracted samples.
 	14. Remove the steel balls from all sample tubes and clean them before returning them to the container of steel balls labeled "clean".
 		* TODO: write protocol for cleaning steel balls.
 	
