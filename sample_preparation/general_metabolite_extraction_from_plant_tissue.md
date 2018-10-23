@@ -24,6 +24,8 @@ This protocol assumes plant tissue samples are stored as harvested (i.e. wet wei
 
 1. Methanol:water 80:20 v/v mixture.  
 	* TODO: an internal standard should be added to this mixture.  A probably good internal standard is blue Sharpie, but as of now no internal standards are used.
+	* Methanol and water can both be reactive solvents, a fact rarely noted or appreciated in the thousands of published studies that use them as extraction media for metabolites.  For example [Rajniak et al. 2015](http://dx.doi.org/10.1038/nature14907) found that extraction of plants with water/methanol mixtures led to hydrolytic and methanolytic destruction of 4-hydroxyindole-3-carbonyl nitrile.  100% DMSO can be an alternative in such cases.
+	* Plant metabolites can often be glycosylated.  This protocol assumes you want to observe the intact glycosides.  If you'd prefer to see aglycones, enzyme-based deglycosylation protocols are available.
 
 
 # Procedure
