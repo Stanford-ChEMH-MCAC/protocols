@@ -24,7 +24,7 @@ Safety glasses and nitrile gloves are required for this protocol.
 
 # Analysis
 To determine the degree to which the cleaning has been effective, `Qual` can be used to monitor the `tributylamine` signal. As an example, here we show the decrease in TBA over the number of cleanings. The cleaning method has a SIM for 186 (TBA) which is plotted below. In purple the first cleaning, in red the 50th cleaning, in blue the 100th, and in green the 150th. Not shown is the ion trace after the 182nd cleaning - it's indistinguishable from the the 150th cleaning run.
-![Alt Text](/protocols/instrument_maintenace_and_configuration/ion_pairing_cleaning/tba_signal.png?raw=true "2018/12/08 cleaning")
+![2018/12/08 cleaning](tba_signal.png?raw=true "2018/12/08 cleaning")
 
 
 CF / cf
