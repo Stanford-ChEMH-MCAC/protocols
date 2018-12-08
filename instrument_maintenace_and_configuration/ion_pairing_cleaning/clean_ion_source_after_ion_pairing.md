@@ -21,5 +21,10 @@ Safety glasses and nitrile gloves are required for this protocol.
 	2. Load the `D:\MassHunter\data\mcac\curtf\qc\tea_and_tba_flus.m` method.
 	3. Load the `D:\MassHunter\worklists\curtf\qc\tea_flus_300times.wkl` worklist. 
 	4. Run the worklist.
-	
+
+# Analysis
+To determine the degree to which the cleaning has been effective, `Qual` can be used to monitor the `tributylamine` signal. As an example, here we show the decrease in TBA over the number of cleanings. The cleaning method has a SIM for 186 (TBA) which is plotted below. In purple the first cleaning, in red the 50th cleaning, in blue the 100th, and in green the 150th. Not shown is the ion trace after the 182nd cleaning - it's indistinguishable from the the 150th cleaning run.
+[2018/12/07-08 cleaning](tba_cleaning.png)
+
 CF / cf
+wdwvt
