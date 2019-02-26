@@ -7,8 +7,8 @@ This protocol describes how to remove the dual AJS ion source and install the MM
 Safety glasses and nitrile gloves are required for this protocol.
 
 #### Ion source
-* The MMI ion source is typically stored in the top right drawer underneath the mass spectrometer.
-* The dual AJS ion source that you plan to remove should be stored in this same drawer after you remove it.  Please put the cover on the dual AJS ion source before storage.
+* The MMI ion source is typically stored in the top left cabinet underneath the mass spectrometer.
+* The dual AJS ion source that you plan to remove should be stored in this same cabinet after you remove it.  Please put the cover on the dual AJS ion source before storage.
 
 # Protocol
 1. Ensure you have reserved time on the appropriate ChEM-H LC-MS schedule:
