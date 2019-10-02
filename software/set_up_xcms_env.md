@@ -9,10 +9,10 @@
 
 ## Set up a new environment for your XCMS
 
-	1.  Do `mamba create -n xcms-test python=3.7` at a command line.  This will create an (almost)-empty environment called `xcms-test`
-	2. Activate the new environment with `conda activate xcms-test`
-	3. Install mamba in the new environment with `conda install mamba`.
-	3. If not done already, make sure bioconda and conda-forge are in your default channels:
+1.  Do `mamba create -n xcms-test python=3.7` at a command line.  This will create an (almost)-empty environment called `xcms-test`
+2. Activate the new environment with `conda activate xcms-test`
+3. Install mamba in the new environment with `conda install mamba`.
+4. If not done already, make sure bioconda and conda-forge are in your default channels:
 		```
 		conda config --add channels defaults
 		conda config --add channels bioconda
