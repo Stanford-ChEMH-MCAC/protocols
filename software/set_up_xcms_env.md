@@ -36,11 +36,21 @@
 				  https://support.bioconductor.org/. For details see also
 				  https://github.com/sneumann/mzR/wiki/mzR-Rcpp-compiler-linker-issue.
 			  ```
-	* Installing XCMS is the hardest, as it requires Rcpp, R, and also Fortran and C++ compilers to be installed on your machine and accessible to R.
+	* Installing XCMS is the hardest, as it requires Rcpp, R, and also Fortran and C++ compilers to be installed on your machine and accessible to R.  The compiled binaries offered in conda are also updated less frequently than those for many other R packages.  So if e.g. try to install R first, then XCMS, you might see that mamba or conda is forced to downgrade your R.
 	
 ## Install other stuff
 	
-	1. Other useful packages if you are using Jupyter notebooks are:
-		`mamba install jupyter nb_conda r-irkernel` installs Jupyter and the nb-conda kernel manager.  This makes it possible to use your new XCMS and R installation in Jupyter.
+	1. To run Jupyter notebooks and use R in them:
+		`mamba install -c conda-forge jupyter nb_conda r-irkernel` installs Jupyter and the nb-conda kernel manager.  This makes it possible to use your new XCMS and R installation in Jupyter.
 		
-	2. `mamba install r-tidyverse r-cowplot r-janitor r-viridis r-ggfortify` installs the essential suite of packages for data manipulation in R.
+	2. `mamba install -c conda-forge r-stringi r-tidyverse r-cowplot r-janitor r-viridis r-ggfortify r-ecipex` installs the essential suite of packages for data manipulation in R.
+		* For reasons I don't understand, it was required to do `mamba update -c conda-forge r-stringi` to get tidyverse things to start working.  
+	
+	
+## Trying out a Jupyter notebook
+
+You made it!
+
+In this directory is an example Jupyter notebook, `example_xcms_notebook.ipynb`, which downloads files from a MASSive, a repository for raw MS data, and analyzes it in R.
+
+If your install is working you should be able to launch this notebook by doing `jupyter notebook example_xcms_notebook.ipynb &` and begin interacting with it.
