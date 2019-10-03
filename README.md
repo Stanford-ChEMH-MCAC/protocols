@@ -18,3 +18,5 @@ Protocols are loosely organized into sub-directories.
 3. [`changing_ion_sources`](changing_ion_sources) is a subdir for how to swap out one ion source (e.g. dual AJS) for another (e.g. MMI).
 
 5. [`installation`](installation) is a subdir containing tales of woe and caution related to the installation of mass spectrometers.
+
+6. [`software`](software) is a subdir containing protocols for how to set up metabolomics software on your own local computer.
