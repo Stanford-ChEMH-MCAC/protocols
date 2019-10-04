@@ -40,11 +40,11 @@
 	
 ## Install other stuff
 	
-	1. To run Jupyter notebooks and use R in them:
+1. To run Jupyter notebooks and use R in them:
 		`mamba install -c conda-forge jupyter nb_conda r-irkernel` installs Jupyter and the nb-conda kernel manager.  This makes it possible to use your new XCMS and R installation in Jupyter.
 		
-	2. `mamba install -c conda-forge r-stringi r-tidyverse r-cowplot r-janitor r-viridis r-ggfortify r-ecipex` installs the essential suite of packages for data manipulation in R.
-		* For reasons I don't understand, it was required to do `mamba update -c conda-forge r-stringi` to get tidyverse things to start working.  
+2. `mamba install -c conda-forge r-stringi r-tidyverse r-cowplot r-janitor r-viridis r-ggfortify r-ecipex` installs the essential suite of packages for data manipulation in R.
+	* For reasons I don't understand, it was required to do `mamba update -c conda-forge r-stringi` to get tidyverse things to start working.  
 	
 	
 ## Trying out a Jupyter notebook
