@@ -20,8 +20,9 @@
 		```
 ## Install XCMS
 
-1. Run this command `mamba install -c bioconda bioconductor-xcms`
-		* This will install R and xcms in your new environment.  Installing the most critical package first is a way to ensure that the version of all other required software (e.g. R) will be compatible with the installed software.
+1. Run this command:
+    * `mamba install -c bioconda bioconductor-xcms`
+        * This will install R and xcms in your new environment.  Installing the most critical package first is a way to ensure that the version of all other required software (e.g. R) will be compatible with the installed software.
 		
 2. Verify that you can run xcms:
 	1.  Start R (at the command line, enter `r`)
